@@ -1,0 +1,7 @@
+*.pdf
+VLFEATROOT/
+data/test/
+data/train/
+data/trainSet/
+data/valid/
+*.zipx
